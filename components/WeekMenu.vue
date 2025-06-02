@@ -18,7 +18,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import plats from '../data/plats_app_test.json'
+import plats from '../src/data/plats_app.json'
 
 const menuSetmanal = ref({})
 
