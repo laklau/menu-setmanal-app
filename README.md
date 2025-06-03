@@ -1,5 +1,5 @@
 # Vue 3 + Vite
-# 🍽️ Menú Setmanal Saludable
+# 🍽️ Menú Setmanal 
 
 ![Work in progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
 
@@ -16,9 +16,11 @@ Aplicació web per planificar un menú setmanal equilibrat i saludable. Està de
 
 ## ✨ Característiques previstes
 
-- Visualització clara dels àpats de tota la setmana
-- Possibilitat de personalitzar el menú amb aliments saludables
+- Visualització clara dels àpats de tota la setmana, amb llista d'ingredients i instruccions de preparació de cada plat.
+- Possibilitat de personalitzar el menú substituint plats
 - Interfície simple i intuïtiva, pensada per a ús domèstic o familiar
+- Generació de llista de la compra
+- Informació nutricional
 
 ## 🛠 Recomanacions per al desenvolupament
 
@@ -33,3 +35,5 @@ npm run build
 
 🔒 **Nota:** Aquest repositori és de caràcter privat pel que fa al desenvolupament. Es farà públic i es consideraran contribucions externes un cop l’aplicació estigui estabilitzada.
 
+
+```

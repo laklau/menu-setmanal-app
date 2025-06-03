@@ -1,0 +1,6096 @@
+{
+  "plats": [
+    {
+      "id": "plat_1",
+      "nom": "Amanida d'espinacs amb nous i sardinetes",
+      "ingredients": [
+        {
+          "nom": "Cherris",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sardinillas en aceite de oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espinacas frescas",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Nueces peladas",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Barreja tots els ingredients en cru i serveix fred amb un toc d’oli i sal."
+      ],
+      "icona": "amanida_d_espinacs_amb_nous_i_sardinetes.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_2",
+      "nom": "Amanida de cigrons",
+      "ingredients": [
+        {
+          "nom": "Verdures variades per l'amanida",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Barrejar tots els ingredients i amanir amb oli i vinagre."
+      ],
+      "icona": "amanida_de_cigrons.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Indiferent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger",
+        "🥦 Vegetarià"
+      ],
+      "valors_nutricionals": {
+        "calories": 250,
+        "proteines": 5,
+        "greixos": 10,
+        "hidrats": 20,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_3",
+      "nom": "Amanida de llegums",
+      "ingredients": [
+        {
+          "nom": "Llegums cuites",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tonyina de llauna",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquet cherri",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Olives sense pinyol",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Enciam o similar",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cogombre",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Tallar totes le verdures a daus petits i fer una amanida amb les llegums ja cuites i la tonyina",
+        "Amanir amb oli, sal i vinagre al gust."
+      ],
+      "icona": "amanida_de_llegums.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_4",
+      "nom": "Amanida de llenties amb pebrot i ou dur",
+      "ingredients": [
+        {
+          "nom": "Llenties cuites",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou dur",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d'oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Vinagre",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Barreja les llenties amb les verdures tallades i ou a trossets",
+        "Amaneix amb oli i vinagre."
+      ],
+      "icona": "amanida_de_llenties.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_5",
+      "nom": "Amanida de pasta i sardinetes",
+      "ingredients": [
+        {
+          "nom": "Cherrys",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sardinillas en aceite de oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espinacas frescas",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Nueces peladas",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [],
+      "icona": "amanida_de_pasta_i_sardinetes.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "hidrats": 25,
+        "greixos": 10
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_6",
+      "nom": "Arròs a la cubana",
+      "ingredients": [
+        {
+          "nom": "Arròs",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "persona)",
+          "quantitat": 2.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "Tomàquet fregit",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir l'arròs amb sal i escòrrer",
+        "Fregir dos ous per persona",
+        "Al plat posar un llit d'arròs, a sobre el tomàquet fregit i els ous."
+      ],
+      "icona": "arros_a_la_cubana.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 380,
+        "proteines": 12,
+        "greixos": 11,
+        "hidrats": 40,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_7",
+      "nom": "Arròs amb gambetes",
+      "ingredients": [
+        {
+          "nom": "Arròs",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sofregit: ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot i tomàquet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gambetes pelades conbgelades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Safrà o cúrcuma",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregit amb les verdures picades molt fines",
+        "Afegir les gambetes al sofregit i després l'arròs amb l'aigua justa per bullir tot junt (el doble d'aigua que de d'arròs)",
+        "Afegir safrà o cúrcuma per acolorir."
+      ],
+      "icona": "paella.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 380,
+        "proteines": 12,
+        "greixos": 11,
+        "hidrats": 40,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_8",
+      "nom": "Arròs amb pollastre al curry",
+      "ingredients": [
+        {
+          "nom": "Arròs integral",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "pits)",
+          "quantitat": 2.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanagues (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrots (2) (verd",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Vermell o mescla)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Curri",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llet evaporada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "litre)",
+          "quantitat": 2.0,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregit amb les verdures trossejades",
+        "Afegir el pollastre a daus i una cullerada de curri",
+        "Salpebrar",
+        "Quan estigui tot daurat, afegir la llet i dexar fer xupxup 5 minuts",
+        "A banda bullir l'arròs amb sal."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_9",
+      "nom": "Arròs amb sardinetes",
+      "ingredients": [
+        {
+          "nom": "Arròs blanc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "llauna)",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot escalibat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cherrys",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullim l'arròs amb sal i llorer",
+        "Mentre esperem que es faci l'arròs pelem la ceba i la pastanaga i la tallem en juliana",
+        "Sofregim les verdures",
+        "Al plat muntem un flam d'arròs blanc i per sobre posem les verdures i les sardines",
+        "Acompanyem amb pebrot escalibat i tomàquets en rodanxes o uns cherrys."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🐟 Peix"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "hidrats": 45,
+        "greixos": 12
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_10",
+      "nom": "Arròs campero",
+      "ingredients": [
+        {
+          "nom": "Arròs",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Verdures variades (all",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Porro",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Api",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Col...)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Xoriço",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregit amb les verdures",
+        "Salpebrar",
+        "Afegir el xoriço a daus i sofregir una mica",
+        "Afegir l'arròs i l'aigua (el doble d'aigua que d'arròs, i una mica més)",
+        "Bullir tot junt el temps necessari en funció del tipus d'arròs."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 380,
+        "proteines": 12,
+        "greixos": 11,
+        "hidrats": 40,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Carn vermella"
+    },
+    {
+      "id": "plat_11",
+      "nom": "Arròs de coliflor a la cubana",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Coliflor",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Adi tomàquet fregit",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Semillas de chia",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posa una mica d'oli en una paella i quan estigui calent afegeix l'arròs de coliflor, la sal i el pebre, remou i cuina a foc mitjà-alt durant uns 5-10 minuts fins que estigui cuinat, remenant de tant en tant",
+        "Reserva i fes els ous fregits",
+        "Barreja l'arròs amb el tomàquet i posa els ous a sobre."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_12",
+      "nom": "Arròs de coliflor amb pollastre al curry",
+      "ingredients": [
+        {
+          "nom": "Coliflor",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "pits)",
+          "quantitat": 2.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanagues (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrots verd i vermell",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Curri",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llet evaporada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Crema de llet de cuina o llet de coco",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregit amb les verdures trossejades",
+        "Afegir el pollastre a daus i una cullerada de curri",
+        "Salpebrar",
+        "Quan estigui tot daurat, afegir la llet i dexar fer xupxup 5 minuts",
+        "A banda bullir l'arròs amb sal."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_13",
+      "nom": "Arròs de coliflor campero",
+      "ingredients": [
+        {
+          "nom": "Pebrot vermell",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Brócoli",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Coliflor",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Api",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Xoriço barbacoa",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posa una mica d'oli en una paella i quan estigui calent afegeix l'arròs de coliflor, la sal i el pebre, remou i cuina a foc mitjà-alt durant uns 5-10 minuts fins que estigui cuinat, remenant de tant en tant",
+        "Fer un sofregit amb les verdures",
+        "Salpebrar",
+        "quan estigui daurat afegir el xoriço saltejar tot junt amb l'arròs i servir"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Carn vermella"
+    },
+    {
+      "id": "plat_14",
+      "nom": "Arròs tikka masala",
+      "ingredients": [
+        {
+          "nom": "per persona)",
+          "quantitat": 1.0,
+          "unitat": "tassa"
+        },
+        {
+          "nom": "per persona)",
+          "quantitat": 1.0,
+          "unitat": "pit"
+        },
+        {
+          "nom": "Llet evaporada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "ml)",
+          "quantitat": 200.0,
+          "unitat": ""
+        },
+        {
+          "nom": "llauna)",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espècies tikka masala",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregit amb la ceba",
+        "Afegir el pollastre i les espècies",
+        "Salpebrar",
+        "Quan estigui tot daurat, afegir la llet i el tomàquet triturat i dexar fer xupxup 5 minuts",
+        "A banda bullir l'arròs amb sal."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 380,
+        "proteines": 12,
+        "greixos": 11,
+        "hidrats": 40,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_15",
+      "nom": "Bacallà a braz",
+      "ingredients": [
+        {
+          "nom": "Bacallà desmigat desalat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Patates fregides tipus palla",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert o cilantre",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Peleu i talleu les cebes a rodanxes molt primes i piqueu l’all",
+        "Sofregiu les cebes i l’all, i afegiu-hi el bacallà i les patates palla fregides",
+        "Remeneu-ho bé tot amb una cullera de fusta",
+        "afegiu-hi els ous sense batre’ls, el cilantre i les olives i remeneu tot"
+      ],
+      "icona": "bacalla_a_braz.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_16",
+      "nom": "Bacallà amb samfaina",
+      "ingredients": [
+        {
+          "nom": "Bacallà (lloms desalats)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "llauna)",
+          "quantitat": 2.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell i verd (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Albergínia (1/2)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Poseu oli en una cassola i sofregiu lleugerament el bacallà, prèviament enfarinat, i reserveu-lo",
+        "A la mateixa cassola sofregiu lleugerament el pebrot vermell i el verd",
+        "Afegiu-hi el carbassó i l'albergínia",
+        "passeu-ho lleugerament i afegiu-hi el tomàquet aneu girant i quan vegeu que comença a quedar-se sec, afegiu-hi aigua deixeu-ho coure quinze minuts afegint-hi aigua si fos necessari i després, poseu-hi el bacallà cinc minuts de cocció més, i a la taula"
+      ],
+      "icona": "bacalla_amb_samfaina.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 25,
+        "greixos": 15,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_17",
+      "nom": "Batut de fruites",
+      "ingredients": [
+        {
+          "nom": "Fruites variades al gust",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Trossejar les fruites i passar-les per la batedora amb una mica de llet, aigua, suc o beguda vegetal, al gust."
+      ],
+      "icona": "batut_de_frutes.png",
+      "tipus_apat": [
+        "Berenar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_18",
+      "nom": "Bikini",
+      "ingredients": [
+        {
+          "nom": "Pa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pernil dolç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sandwich i passar-lo per la planxa."
+      ],
+      "icona": "bikini.png",
+      "tipus_apat": [
+        "Esmorzar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_19",
+      "nom": "Bizcocho de xocolata en microondas",
+      "ingredients": [
+        {
+          "nom": "ous",
+          "quantitat": 2.0,
+          "unitat": ""
+        },
+        {
+          "nom": "grams",
+          "quantitat": 50.0,
+          "unitat": ""
+        },
+        {
+          "nom": "mil·lilitres",
+          "quantitat": 120.0,
+          "unitat": ""
+        },
+        {
+          "nom": "cullerada",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "tassa",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "cullerades",
+          "quantitat": 4.0,
+          "unitat": ""
+        },
+        {
+          "nom": "mil·lilitres",
+          "quantitat": 100.0,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "En un recipient bat els ous",
+        "Afegeix-hi el xarop de dàtil i l’oli, i barreja bé",
+        "Afegeix al recipient la farina i el cacau",
+        "Barreja-ho tot",
+        "En un cassó a foc suau, desfés la xocolata negra amb la llet vegetal",
+        "Quan estigui desfeta, aboca-la a la massa que tens reservada i remena tots els ingredients",
+        "Aboca la preparació en un motlle apte per a microones i posa-ho 3 minuts a 650W",
+        "Si passats els 3 minuts veus que no s’ha cuit, baixa una mica la potència i torna a escalfar en intervals de 30 segons fins que estigui fet."
+      ],
+      "icona": "bizcocho_xocolata_sense_sucre.png",
+      "tipus_apat": [
+        "Berenar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_20",
+      "nom": "Burritos de verdures",
+      "ingredients": [
+        {
+          "nom": "Tortites per burritos",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge semi",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Hummus",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Verdures al gust per omplir els burritos: pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Albergínia",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Etc",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Tallar les verdures a tires finetes i saltejar",
+        "Escalfar les tortitas per fer el burritos Farcir els burritos amb les verdures i el formatge",
+        "Acompaniar amb hummus."
+      ],
+      "icona": "burritos_de_verdures.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_21",
+      "nom": "Cassola de calamars i gambes",
+      "ingredients": [
+        {
+          "nom": "Calamars tallats en anelles",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gambes",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Fonoll",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": ")",
+          "quantitat": 25.0,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Vi blanc",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pelem la ceba i la tallem a llunes primes",
+        "Traiem la fulla exterior del fonoll i tallem un tros a làmines primetes",
+        "Posem un fons d'oli en una paella i la posem al foc",
+        "quan l'oli s'hagi escalfat hi afegim un all picat posem la ceba i el fonoll a la paella i ho salpebrem al cap d'uns minuts hi posem els tomàquets cherri ho deixem a foc moderat-baix fins que ho notem tou hi afegim el vi blanc i deixem que es redueixi hi posem les gambes i les anelles de calamars que donin un parell de voltes, quan ja siguin blanques, que veureu que es de seguida, apaguem el foc trinxem una mica de julivert i el repartim per damunt de la cassola es pot acompaniar de patates o arròs blanc"
+      ],
+      "icona": "cassola_de_calamars_i_gambes.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_22",
+      "nom": "Cigrons a la catalana amb bacallà",
+      "ingredients": [
+        {
+          "nom": "Cigrons bullits",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet triturat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bacallà desmigat o a daus",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Desalat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "la picada)",
+          "quantitat": 1.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "per la picada)",
+          "quantitat": 1.0,
+          "unitat": "gra"
+        },
+        {
+          "nom": "Ametlles torrades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir la ceba en juliana",
+        "Quan estigui daurada afegir el bacallà, els cigrons i el tomàquet",
+        "Deixar fer xupxup mentre es prepara la picada amb el pa sec, l'all, les ametlles i el julivert",
+        "afegir la picada a la cassola i deixar fer xupxup 5 minuts més"
+      ],
+      "icona": "cigrons_a_la_catalana_amb_bacalla.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_23",
+      "nom": "Cigrons amb morcilla",
+      "ingredients": [
+        {
+          "nom": "Cigrons bullits",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell i o verd",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Morcilla",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir les verdures",
+        "Quan estigui daurada afegir els cigrons i la morcilla a troços",
+        "Deixar fer xupxup durant 5 minuts."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Carn vermella"
+    },
+    {
+      "id": "plat_24",
+      "nom": "Cistellets de pa de motlle amb carbassó i pernil",
+      "ingredients": [
+        {
+          "nom": "Ous (6)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pernil dolç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa de motlle",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Preescalfem el forn a 180ºc",
+        "Pelem i tallem el carbassó a dauets",
+        "Batem els ous en un bol i hi afegim el carbassó i el pernil tallat a trossets petits",
+        "barregem bé i salpebrem al gust agafem les llesques de pa de motlle, li triem les vores i les anem aplanant amb un corró (si no teniu ho podeu fer amb un got per exemple fent-lo rodar) les doblem en forma de mocador, pessigant cada costat en el centre perquè agafin forma i les pugueu introduir en un motlle per magdalenes com en la imatge, que podem greixar lleugerament posem diverses cullerades de la barreja d'ous en cada pa de motlle, tenint en compte que l'ou a l'quallar pujarà de mida empolvorem amb el formatge parmesà ratllat i fiquem a el forn a 180 º c durant aproximadament 10 minuts, fins que veiem que l'ou s'ha quallat i el pa s'ha torrat"
+      ],
+      "icona": "cistellets_de_pa_de_motlle_amb_carbasso_i_pernil.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_25",
+      "nom": "Coca de farina de cigrons amb tomàquet i formatge de cabra",
+      "ingredients": [
+        {
+          "nom": "g)",
+          "quantitat": 100.0,
+          "unitat": ""
+        },
+        {
+          "nom": "All granulat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cúrcuma",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pimentó roig dolç o picant",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bicarbonat sòdic",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "gran)",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "g)",
+          "quantitat": 30.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Orenga",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pre-escalfar el forn a 180 °c i preparar una safata o font amb paper de forn",
+        "Col·locar100 gr de farina de cigrons en un bol i afegir les espècies, la sal, el bicarbonat (si no teniu el podeu ometre) i 15 ml d'oli",
+        "Barrejar una mica i agregar dues cullerades d'aigua",
+        "començar a barrejar i pastar tot bé, afegint una o dues cullerades d'aigua si fes falta es pot deixar la massa una mica enganxosa o preparar-la amb una textura més seca si la voleu més cruixent tapar amb un drap i deixar reposar 10 minuts bolcar en la safata i estirar, estirant-la bé amb una cullera humitejada o amb les mans humides com més fineta, més cruixent quedarà enfornar 10 minuts i treure tallar el tomàquet rentat en rodanxes i distribuir per damunt afegir una mica de formatge ratllat o llevat de cervesa en flocs, salpebrar i agregar orenga al gust enfornar uns 10-15 minuts més i incorporar el formatge de cabra esmicolat abans de servir"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Piscolabis"
+    },
+    {
+      "id": "plat_26",
+      "nom": "Coca exprés",
+      "ingredients": [
+        {
+          "nom": "gr)",
+          "quantitat": 150.0,
+          "unitat": ""
+        },
+        {
+          "nom": "gr)",
+          "quantitat": 150.0,
+          "unitat": ""
+        },
+        {
+          "nom": "gr)",
+          "quantitat": 100.0,
+          "unitat": ""
+        },
+        {
+          "nom": "gr)",
+          "quantitat": 100.0,
+          "unitat": ""
+        },
+        {
+          "nom": "gr)",
+          "quantitat": 80.0,
+          "unitat": ""
+        },
+        {
+          "nom": "gr)",
+          "quantitat": 200.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Anxoves de llauna",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous (4)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "gr)",
+          "quantitat": 160.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Llevat químic",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pre-escalfa el forn a 200°c, calor a dalt i a baix",
+        "Trosseja al pernil dolç o el gall dindi (3 segons en velocitat 4) i reserva en un bol on agregarem la resta de verdures",
+        "Trosseja el pebrot vermell, verd, la ceba, el carabassó, 6 anxoves, la sal (ull que les anxoves porten sal) i una mica de pebre (tot junt 4 segons en velocitat 4)",
+        "afegeix tot al bol amb el pernil amb el got del robot buit i sense rentar, aboca els ous i l'oli, bat 10 segons en velocitat 5 agrega la farina i una cullereta de llevat i la meitat del formatge ratllat mescla 10 segons en velocitat 3 incorpora el bol de verdures amb el pernil -no t'espantis, és així, 'tot en un'- i mescla 10 segons en velocitat 3 prepara la safata del forn amb una base de paper d'enfornar vernissada amb oli aboca la mescla, estira perquè quedi amb el mateix gruix per tota la safata empolvora amb el formatge que ens ha quedat i al forn durant 25-30 minuts a 200 °c a menjar"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_27",
+      "nom": "Coques de carbassó i bròquil",
+      "ingredients": [
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bròquil",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous (4)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Farina",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posar 300 gr de carbassó ratllat dins d'un drap de cuina i estrènier per eliminar la mallr quantitat d'aigua possible, batre 4 ous amb 5 cullerades de farina",
+        "Afegir 20 g de bròquil picat fi i 1 gra d'all també picat fi",
+        "Salpebrar, afegit julivert al gust i barrejar tot amb l'ou",
+        "escalfar l'oli en una paella i anar tirant la barreja amb un cullerot per coure les coques, uns 2 minuts per costat o fins que estiguin daurades"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_28",
+      "nom": "Coques de carbassó i patata",
+      "ingredients": [
+        {
+          "nom": "Carbassó (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Patata (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Farina integral",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Ratllem els carbassons i piquem la ceba tendra finament",
+        "Posem en un colador i deixem a l'almenis mitja hora, necessitem que el carbassó deixi anar tota l'aigua que ambté",
+        "Una vegada que ha passat el temps, eixuguem bé amb paper de cuina, ratllem també la patata i ho posem tot en un bol, hi afegim l'ou, 3 cullerades de farina, una mica de sal i de pebre negre i barregem bé",
+        "posem en una paella una mica d'oli d'oliva i anem afegint cullerades de la nostra barreja, cuinem per ambdós costats fins que estiguin daurades surten unes 10 coquetes"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_29",
+      "nom": "Crema de boniato amb salsitxes",
+      "ingredients": [
+        {
+          "nom": "2)",
+          "quantitat": 1.0,
+          "unitat": "ó"
+        },
+        {
+          "nom": "Arròs rodó (o una patata)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gingebre i pebre",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salsitxes",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir la ceba amb oli d'oliva",
+        "Quan estigui daurada, afegir aigua, el boniato i un grapat d'arròs o una patata",
+        "Salpebrar i a afegir el gingebre",
+        "Bullir tot junt 15 mins i tritura",
+        "Fer les salsitxes a la planxa per completar l'àpat."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 380,
+        "proteines": 12,
+        "greixos": 11,
+        "hidrats": 40,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_30",
+      "nom": "Crema de carbassó i formatget amb salsitxes",
+      "ingredients": [
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "persona)",
+          "quantitat": 1.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Nou moscada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salsitxes",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir el carbassó i la ceba",
+        "Triturar-ho tot amb un formatget per persona",
+        "Fer les salsitxes a la planxa per completar l'àpat."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_31",
+      "nom": "Crema de verdura amb salsitxes",
+      "ingredients": [
+        {
+          "nom": "2)",
+          "quantitat": 1.0,
+          "unitat": "ó"
+        },
+        {
+          "nom": "Arròs rodó (o una patata)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gingebre i pebre",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salsitxes",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir la ceba amb oli d'oliva",
+        "Quan estigui daurada, afegir aigua, el boniato, el carbassó o la verdura que sigui",
+        "Salpebrar",
+        "bullir tot junt 15 mins i tritura el pot afegir un formatget per persona al moment de tritura fer les salsitxes a la planxa per completar l'àpat"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 380,
+        "proteines": 12,
+        "greixos": 11,
+        "hidrats": 40,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_32",
+      "nom": "Crema de verdures",
+      "ingredients": [
+        {
+          "nom": "Verdures.",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir les verdures variades i triturar-les."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_33",
+      "nom": "Crema freda de carbassó i iogurt",
+      "ingredients": [
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Iogurt natural",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d’oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Menta",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sal",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bull el carbassó i tritura'l amb iogurt, all i menta",
+        "Refreda i serveix amb un rajolí d’oli."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🧀 Làctics",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 3
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_34",
+      "nom": "Crepes de pollastre amb pebrot vermet",
+      "ingredients": [
+        {
+          "nom": "Pit de pollastre",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba morada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Farina de civada",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Talla el pollastre a trossets i sala’l lleugerament",
+        "Talla la ceba i el pebrot a tires",
+        "Salta el pollastre en una paella amb una mica d’oli durant un parell de minuts, afegeix-hi la ceba i el pebrot, i salta-ho tot 4-5 minuts més",
+        "Prepara la massa barrejant farina de civada, un ou, mitja culleradeta de sal i llet",
+        "Bat fins que quedi homogeni",
+        "Unta una paella amb unes gotes d’oli, aboca-hi una capa fina de massa i cuina-la a foc mitjà 1-2 minuts per cada banda",
+        "Farceix-la amb el saltat de pollastre i verdures, afegeix-hi formatge ratllat i plega la crep per la meitat quan el formatge es fongui",
+        "Repeteix fins acabar la massa i el farcit."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 420,
+        "proteines": 30,
+        "greixos": 20,
+        "hidrats": 15,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_35",
+      "nom": "Creps de porro i gambes",
+      "ingredients": [
+        {
+          "nom": "Porro (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gambes petites",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Farina",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou (1)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pelem la ceba i els porros i ho ratllem",
+        "Si teniu robot el podeu fer servir i anireu més depressa",
+        "Posem les verdures a una paella amb oli i les deixem a foc lent fins que estiguin toves",
+        "afegim les gambetes i salpebrem ho deixem coure uns minuts, no massa que es queden seques fem les creps i les farcim amb les verdures amb gambes per 9 creps necessitem 65 g de farina, 65 ml de llet, 1 ou, oli i sal"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_36",
+      "nom": "Crispetes cassolanes",
+      "ingredients": [
+        {
+          "nom": "Blat de moro per crispetes",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "El primer que farem seran cobrir el fons de la paella amb l'oli d'oliva i el portarem al foc fins que estigui bé calent",
+        "Una vegada calenta, tirem amb cura els grans de blat de moro cobrint el fons de la paella, procurant que no s'amunteguin, sinó que es quedin tots en una capa, perquè estiguin en ambtacte amb l'oli i el fons de la paella",
+        "Cobrim la paella amb una tapa deixant-la una miqueta oberta perquè surti el vapor",
+        "esperem una miqueta i, quan sentim que els grans de blat de moro comencen a explotar, baixem a foc mitjà quan deixem d'escoltar les mini-explosions, llevem la paella del foc i la descobrim les passem a un bol i tirem, si volem, un polsim de sal i a gaudir!"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Berenar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_37",
+      "nom": "Croquetes de pollastre",
+      "ingredients": [
+        {
+          "nom": "pits)",
+          "quantitat": 4.0,
+          "unitat": ""
+        },
+        {
+          "nom": "grams)",
+          "quantitat": 100.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous (3)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "litre)",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Farina",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa ratllat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Trossejar el pollastre en trossets molt petits",
+        "En una paella posar la mantega, el pollastre trossejat i deixar coure",
+        "Quan aquest estigui bullit, afegir 100grams de farina i barrejar-ho tot",
+        "afegir la llet a poc a poc i sense deixar de remoure afegir 2 ous cuits i julivert, tot trossejat en trossos petitons afegir una mica de sal i pebre al gust deixar refredar la massa de les croquetes quan la massa estigui ja freda, fer les boles per a les croquetes passar les boles per la farina, després per l'ou i finalment pel pa ratllat para arrebossar-les posar les croquetes a la paella per fregir-les amb l'oli ben calent"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_38",
+      "nom": "Cuixetes de pollastre a la cassola",
+      "ingredients": [
+        {
+          "nom": "Cuixetes de pollas i verdures per sofregit",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregir bàsic de verdures amb ceba, pebrot vermet, etc i afegir a la cassola les cuixetes de pollas",
+        "Daurar una mica",
+        "Desprès afegir aigua o caldo i deixar coure durant mínim mitja hora fins que quedin ben estovadetes."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_39",
+      "nom": "Cuscus amb verdures i pollastre",
+      "ingredients": [
+        {
+          "nom": "Pollastre (poden ser restes)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Verdures variades (all",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Porro",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Api",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Col...)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cuscus",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Picar les verdures en juliana i saltejar fins que estiguin tovetes a foc lent, amb sal i pebre",
+        "Apart fer el cuscus",
+        "Servir tot junt, amb les restes de pollastre a daus per sobre."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 420,
+        "proteines": 30,
+        "greixos": 20,
+        "hidrats": 15,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_40",
+      "nom": "Cuscús amb verdures rostides",
+      "ingredients": [
+        {
+          "nom": "Cuscús integral",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Albergínia",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d'oliva",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Rosteix les verdures al forn",
+        "Hidrata el cuscús i barreja-ho tot amb oli i espècies."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 7
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_41",
+      "nom": "Cuscús amb escopinyes i salmó fumat",
+      "ingredients": [
+        {
+          "nom": "Cherris",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Escopinyes en conserva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Suc de llimona",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pepinillos o pepino",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salmó fumat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cuscús",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posa a bullir una tassa d’aigua amb una mica de sal i tres cullerades d’oli d’oliva",
+        "Abans que arrenqui el bull, afegeix-hi la tassa de cuscús i apaga el foc",
+        "Deixa-ho reposar fins que s’hidrati",
+        "Si cal, afegeix-hi una mica més de sal i oli, i remena",
+        "Pela la pastanaga i ratlla-la o talla-la a trossets petits",
+        "Talla el tomàquet a trossets petits (pots fer servir tomàquets cherry si vols) i els cogombrets a rodanxes",
+        "Talla el salmó fumat a daus o tires i escorre bé els escopinyes en conserva de la seva llauna",
+        "En un recipient gran, barreja el cuscús que vagis a fer servir amb les verdures tallades, el salmó i les escopinyes, i afegeix-hi un raig d’oli d’oliva, el suc de llimona i sal",
+        "Barreja-ho bé i..",
+        "bon profit! Si vols donar-li un toc de més frescor, pots picar i afegir alguna herba aromàtica com menta o menta fresca en el moment d’amanir el cuscús."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_42",
+      "nom": "Amanida de espinacs i pollastre",
+      "ingredients": [
+        {
+          "nom": "Pollastre (sobres)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espinacs frescos",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cherris",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Nous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Olives",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cogombrets",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer l'amanida amb tots els ingredients i amanir amb oli d'oliva i vinagre de mòdena."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 250,
+        "proteines": 5,
+        "greixos": 10,
+        "hidrats": 20,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_43",
+      "nom": "Amanida de cigrons i tonyina",
+      "ingredients": [
+        {
+          "nom": "Pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot verd",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Aguacate",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cigrons en conserva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tonyina en conserva",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Cuina els ingredients segons el mètode habitual: bull, salta o enforna i serveix al punt."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_44",
+      "nom": "Amanida de pasta amb tonyina i brócoli",
+      "ingredients": [
+        {
+          "nom": "Pasta",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cherris",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tonyina en conserva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Brócoli",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "En una olla amb aigua bullint, cou la pasta durant el temps que indiquin les instruccions de l'envàs",
+        "Un cop estigui llesta, escorre-la i reserva-la",
+        "Renta el bròquil i talla'l en ramells petits",
+        "Posa aigua en un cassó i, quan bulli, aboca-hi el bròquil que acabes de tallar i cou-lo durant 4-5 minuts o fins que estigui al dente",
+        "A continuació, escorre'l i reserva'l en un recipient",
+        "Afegeix-hi la pasta, el bròquil, els tomàquets tallats per la meitat i la tonyina, prèviament escorreguda de les llaunes",
+        "Barreja-ho tot i serveix!"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_45",
+      "nom": "Espaguetis a la marinera",
+      "ingredients": [
+        {
+          "nom": "Espaguetis integrals",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquet triturat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Musclos de llauna",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Espaguetis integrals amb salsa de musclos, tomàquet i sofregit de ceba i pebrot vermell."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_46",
+      "nom": "Espaguetis bolognesa amb col",
+      "ingredients": [
+        {
+          "nom": "Espaguetis integrals",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Col",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sofregit",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet fregit",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carn picada",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir els espaguetis",
+        "Per la salsa, sofregir all i ceba amb la carn picada",
+        "Afegir la col en juliana i deixar fer xupxup amb una miqueta d'aigua fins que estigui tova",
+        "Afegir el tomàquet fregit",
+        "Servir amb formatge ratllat per sobre."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_47",
+      "nom": "Espaguetis de carbassó bolognesa",
+      "ingredients": [
+        {
+          "nom": "Salsa bolognesa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espaguetis integrals",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Esferitzar el carbassó perquè tinguin forma d' espaguettis i cuinar a la paella",
+        "Bullir una mica de espaguetis integrals per barrejar-ho",
+        "Fer salsa bolognesa i servir-ho tot acabat de fer."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "hidrats": 25,
+        "greixos": 10
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_48",
+      "nom": "Espirals de colors amb samfaina",
+      "ingredients": [
+        {
+          "nom": "Espirals de colors (o espirals de llenties vermelles)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Samfaina",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir les espirals",
+        "Escalfar la xamfaina (opcinalment es pot tritura per que quedi més tipus salsa)",
+        "Servir amb formatge ratllat per sobre (opcional)."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_49",
+      "nom": "Farcellets d’escalivada i formatge de cabra",
+      "ingredients": [
+        {
+          "nom": "Pasta brisa o d'empanada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Escalivada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge de cabra",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquets (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou (1)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Extenem la massa i la fem molt més prima del que és originalment, de manera que ens surtin 12 farcellets (són quadrats d’uns 10 cm cada u)",
+        "Tallem el tomaquet a rodanxes fines, tallem l’escalivada a tires fines i tallem el formatge de cabra a rodanxes també",
+        "Muntem els farcellets: agafem un quadradet de pasta i hi podem una rodanxa de tomaquet",
+        "a sobre hi posem una mica d’escalivada (la dosi dependrà de quanta en tinguem), i ho reguem una mica amb oli (sal no en cal perquè el formatge de cabra ja és salat) a sobre de l’oli hi posem la rodanxa de formatge tanquem el farcellet, començant per les puntes i plegant-les unes sobre les altres al centre del farcell per tancar el farcellet va bé tenir un got amb aigua i sucar-hi els dits per poder fusionar les puntes quan les anem plegant finalment, es pinta el farcellet amb un ou batut perquè quedi brillant, i s’enforma el forn a 200 graus uns 15 minuts vigilant que no es torri massa de sobre si veiem que es torra però no han passat més de 10 minuts, es pot tapar amb un paper de plata"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Piscolabis"
+    },
+    {
+      "id": "plat_50",
+      "nom": "Fesols amb butifarra de bolets",
+      "ingredients": [
+        {
+          "nom": "Fesols",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sofregit",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Butifarres de bolets",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir lles verdures",
+        "Saltejar una mica, després afegir els fessols i deixar fer xupxup 5 minuts remenant perquè no s'enganxi",
+        "A part, fer les butifarres a la planxa."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Carn blanca"
+    },
+    {
+      "id": "plat_51",
+      "nom": "Fesols amb calamarsets i gambes",
+      "ingredients": [
+        {
+          "nom": ")",
+          "quantitat": 250.0,
+          "unitat": "gr"
+        },
+        {
+          "nom": "Gambes",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cloisses i calamarsets (pot ser congelat)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquets (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ametlles (10)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa fregit per la picada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Brou de peix",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir la ceba i l'all, afegir el tomàquet quan estigui daurada la ceba",
+        "Afegir la picada (1 gra all, 10 ametlles, julivert, pa fregit) i el peix",
+        "Saltejar una mica, després afegir els fessols i el brou i deixar fer xupxup 5 minuts."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 25,
+        "greixos": 15,
+        "hidrats": 5,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_52",
+      "nom": "Fideos amb cloïsses",
+      "ingredients": [
+        {
+          "nom": "Fideus de fideuà",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cloïsses",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot vermell",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Safrà o cúrcuma",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Brou de peix",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "En una cassola amb oli d'oliva, sofregir la ceba, el pebrot i l'all tallat petit",
+        "Afegir el tomàquet ratllat quan estigui la ceba daurada",
+        "Salar, remenar-ho una mica i afegir el julivert picat",
+        "un cop cuit el sofregit, afegir-hi el fideus i deixar-los enrossir una mica afegir el brou (o aigua), una mica de safrà o cúrcuma i les cloïsses, i deixar coure tot junt fins que els fideus estiguin al punt"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 25,
+        "greixos": 15,
+        "hidrats": 5,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_53",
+      "nom": "Filet de vedella amb patates al forn",
+      "ingredients": [
+        {
+          "nom": "Filet de vedella",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Patates",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d’oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Romaní",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sal",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Enforna les patates amb oli i romaní",
+        "Salta el filet i serveix junt."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Carn vermella",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🍖 Carn vermella"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 3
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_54",
+      "nom": "Flam d'arròs amb sardines en escabetx",
+      "ingredients": [
+        {
+          "nom": "Arròs blanc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sardinetes en llauna",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot escalibat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cherris",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullim l'arròs amb sal i llorer",
+        "Mentre esperem que es faci l'arròs pelem la ceba i la pastanaga i la tallem en juliana",
+        "Sofregim les verdures",
+        "al plat muntem un flam d'arròs blanc i per sobre posem les verdures i les sardines en escabetx acompaniem amb pebrot escalibat i tomàquets en rodanxes o uns cherris"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_55",
+      "nom": "Frankfurt / brastwurt",
+      "ingredients": [
+        {
+          "nom": "Frankfurt o brastwurt",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Panet de frankfurt",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Mostassa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Guacamole",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ketxup o la salsa que es vulgui",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer les salsitxes a la paella, escalfar el pa i fer un entrepà amb la salsa escollida."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_56",
+      "nom": "Fritata de patata i salmó",
+      "ingredients": [
+        {
+          "nom": "Patata (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "g)",
+          "quantitat": 100.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous (3)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Porro (1)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pelem les patates i les tallem a discos ben prims, no cal que siguin tan primes com per a fer patates xips",
+        "Posem oli abundant a la paella i hi posem les patates",
+        "Pelem la ceba i la tallem a llunes primes també",
+        "al cap de cinc minuts que tenim les patates a la paella hi afegim la ceba també hi posem una mica de sal i ho tapem, volem que se'ns estovi encenem el forn de la part del gratinador a 200º perquè s'escalfi tallem el salmó a daus petitets amanim el salmó amb sal i pebre i porro ben trtinxat un cop la patata estigui cuita hi posem la meitat dels ous batuts, el salmó repartit per damunt i hi aboquem la resta dels ous fem una mica d'espai perquè l'ou baixi cap al fons ho deixem fins que el veiem quallat de sota enplatem i ho posem al forn a 200º només el gratinador durant 10 minuts fins que veiem que s'ha enrossit de sobre"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_57",
+      "nom": "Galetes de cigrons i xocolata",
+      "ingredients": [
+        {
+          "nom": "g)",
+          "quantitat": 500.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Crema de cacauets",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Dàtils (5)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Xocolata negra",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Essència de vainilla",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posa en remull 5 dàtils en aigua tèbia durant 15 minuts",
+        "Escorre'ls i trosseja'ls",
+        "Escorre i lava els cigrons i introdueix-los en el got de la batedora",
+        "agrega l½ tassa de crema de cacauets, els dàtils, un polsim de sal i 1 cullerada sopera d'essència de vainilla tritura fins que es formi una pasta homogènia i compacta passa la massa de les galetes de cigró a un bol i afegeix la xocolata negra trossejada o llavors de xocolata remou bé agafa porcions de massa amb les mans i forma unes boletes aixafa-les donant-los la forma de galetes pre-escalfa el forn a 180 graus i cobreix una safata de forn amb paper de forn col·loca les galetes veganes de cigró damunt i enforna-les durant 25-30 minuts saca la safata del forn i deixa que les galetes es refreden del tot truc: mentre les galetes estiguin calentes, estaran molt toves, per tant, és important que es refreden del tot"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Berenar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Llegums"
+    },
+    {
+      "id": "plat_58",
+      "nom": "Galetes de civada sense sucre",
+      "ingredients": [
+        {
+          "nom": "de plàtans (sense pell)",
+          "quantitat": 300.0,
+          "unitat": "gr"
+        },
+        {
+          "nom": "de flocs de civada",
+          "quantitat": 125.0,
+          "unitat": "gr"
+        },
+        {
+          "nom": "de pasta de de dàtil",
+          "quantitat": 2.0,
+          "unitat": "cullerades"
+        },
+        {
+          "nom": "de xips de xocolata",
+          "quantitat": 25.0,
+          "unitat": "gr"
+        }
+      ],
+      "instruccions": [
+        "Trossegem el plàtan, el posem en un bol juntament amb la pasta de dàtil",
+        "Amb l'ajuda d'una forquilla xafem fins a obtenir un puré",
+        "Afegim al bol la civada i la meitat de la xocolata",
+        "barregem bé folrem una safata amb paper de forn i anem formant les galetes fer les boletes amb les mans o amb l'ajuda d'una cullera per a gelats aplanar per a fer la forma de la galeta posar-les damunt d'una safata de forn, folrada amb paper de forn una vegada tenim totes les galetes formades repartim la resta de trossets de xocolata per damunt enfornem a 190 °c, amb el forn pre-escalfat uns 12-15 minuts fins que les galetes estiguin daurades deixem refredar sobre reixeta hi ha moltes versions d'aquestes galetes tan fàcils de fer una altra de les versions és substituir els plàtans per dos ous i la xocolata per 75 grams de coco aquestes galetes seran ideals per gaudir-les en l'esmorzar i el berenar de grans o petits"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Berenar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_59",
+      "nom": "Hamburguesa",
+      "ingredients": [
+        {
+          "nom": "Hamburguesa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Panets d'hamburguesa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Mostassa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Guacamole",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ketxup o la salsa que es vulgui",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer les hamburgueses a la paella, escalfar el pa i fer un entrepà amb la salsa escollida."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn vermella",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_60",
+      "nom": "Hamburgueses de carbassó i pastanaga",
+      "ingredients": [
+        {
+          "nom": "Carbassó (½)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Comí",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pre-escalfar el forn a 200 ºc",
+        "Ratllar mig carbassó (amb o sense pell) i una pastanaga",
+        "Reservar",
+        "batem l'ou en un recipient posem els ambdiments i 5 cullerades de llet barregem bé afegim les verdures i movem suaument amb ajuda d'una cullera de pal o una espàtula finalment incorporem 120 gr de pa ratllat i homogeneïtzem la mescla manualment fins a aambseguir una massa manejable rectificar de pa o de llet si fos necessari fem les hamburgueses amb les mans o amb l'ajuda d'un emplatador col·loquem sobre la safata de forn coberta de paper d'enfornar cuinem entre 10 i 15 min"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_61",
+      "nom": "Hummus & paté de sardina",
+      "ingredients": [
+        {
+          "nom": "Sardines de llauna",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Hummus",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Palitos o torradetes",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Xamfaina",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sopar fred de torradetes de pa integral amb hummus i paté de sardina",
+        "El paté de sardina es pot fer triturant les sardines amb la xamfaina."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🫘 Llegums"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "hidrats": 25,
+        "greixos": 10
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_62",
+      "nom": "Hummus amb crudités de temporada",
+      "ingredients": [
+        {
+          "nom": "Cigrons cuits",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tahina",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llimona",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d'oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Api",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cogombre",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Tritura els cigrons amb tahina, all, oli i llimona",
+        "Serveix amb bastonets de verdures crues."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger",
+        "🥦 Vegetarià"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 8
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_63",
+      "nom": "Hummus de carbassó",
+      "ingredients": [
+        {
+          "nom": "Carbassó (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tahini (pasta de sèsam)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pimentó dolç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llimona",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bastonets de pa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga (2)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pre-escalfa el forn a 180 °c",
+        "Posar en la safata de forn coberta amb paper d'enfornar 2 carbassons tallats transversalment en dues parts i 2 grans d'all aixafats sense pelar",
+        "Cuinar els alls durant uns 25 minuts (o fins que estiguin daurats) i els carabassons durant uns 45 minuts (o fins que es vegin tendres)",
+        "retirar i deixar refredar una mica tritura tot junt amb 2 cullerades de tahini, ½ cullereta de pimentó, el suc de ½ limona i una mica de prebre fins a aambseguir una massa homogènia servir amb bastonets de pa i crudités de pastanaga"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Piscolabis"
+    },
+    {
+      "id": "plat_64",
+      "nom": "Lassanya exprés d'alberginia",
+      "ingredients": [
+        {
+          "nom": "ous",
+          "quantitat": 2.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Albergínia",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Olives negres",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquet fregit",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tonyina en conserva",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posa a bullir els ous en un cassó amb aigua i una culleradeta de sal durant 10 minuts",
+        "Refresca’ls en aigua freda, pela’ls i pica’ls",
+        "Talla les olives negres a rodanxes (retira’n el pinyol si en tenen)",
+        "Renta l’albergínia i talla-la a làmines d’uns 1,5 cm de gruix",
+        "Cuina-les a la planxa amb una mica d’oli per ambdós costats fins que la polpa estigui tendra (uns 10 minuts)",
+        "En un bol, barreja la tonyina escorreguda, l’ou picat, les olives i dues cullerades de tomàquet fregit",
+        "Sobre una làmina d’albergínia, posa una mica de farcit i tapa amb una altra làmina",
+        "Pots fer diversos pisos, segons el farcit que tinguis",
+        "Posa una mica de tomàquet fregit a sobre i escampa-hi formatge ratllat",
+        "Gratina-ho al forn durant 5 minuts per donar-li un toc deliciós."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_65",
+      "nom": "Lassanya de verdures",
+      "ingredients": [
+        {
+          "nom": "Beixamel",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Plaques de lassanya",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Verdures variades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet triturat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Tallem totes les verdures a daus i les sofregim",
+        "Afegim el tomàquet i deixem que vagi coent, anem remenant",
+        "Bullim les plaques de lassania en aigua abundant",
+        "un cop fetes, les treiem del foc i les posem en un bol amb aigua freda i un cop refredades, extenem un drap de cotó sobre la cuina i posem les plaques que s’eixuiguin a una safata apta pel forn anem posant una capa de verdura, una mica de beixamel i una de pasta la primera capa, al fons de la plata, posem una mica de verdura perquè no s’enganxi cobrim la lassania de beixamel, una mica de mantega i formatge ratllat i ja podem posar al forn a gratinar"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_66",
+      "nom": "Bol de llenties pardines i mozzarella",
+      "ingredients": [
+        {
+          "nom": "Llenties",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pastanaga",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ruca o enciam",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "va bé qualsevol fulla verda.",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cherryis",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Blat de moro",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Remolatxa cuita",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Mozzarella fresca",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tonyina en llauna o salmó fumat.",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pipes de gira-sol salades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Panses sense pinyol",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Colocar tots els ingredients tallats i fescos a un bol",
+        "Amanir i servir."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_67",
+      "nom": "Llenties amb xoriço",
+      "ingredients": [
+        {
+          "nom": "Llenties pardinas",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Xoriço barbacoa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Verdures variades: all",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "porro",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "api",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "pebrot...",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer un sofregit amb les verdures",
+        "Afegir el xoriço a trocets i les llenties ja bullides i deixar fer xupxup 5 minuts, o afegir les llenties crues i aigua i bullir tot durant 40 minuts."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Llegums",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Carn vermella"
+    },
+    {
+      "id": "plat_68",
+      "nom": "Lluç amb patates al forn",
+      "ingredients": [
+        {
+          "nom": "persona)",
+          "quantitat": 1.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "persona)",
+          "quantitat": 2.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "Lluç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "persona)",
+          "quantitat": 2.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "Vi blanc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pelem les patates i les cebes",
+        "Les patates les tallem a rodanxes de mig cm",
+        "Les cebes les fem a llunes",
+        "posem les patates al microones uns minuts per estovar-les una mica mentre, sofregim la ceba en una plàtera d'anar al forn hi posem les patates en el fons i les salem una mica afegim la ceba fregida tallem el tomàquet a quarts i el posem cru a la plàtera per les vores sobre de les patates a sobre hi posem el peix amb sal i pebre, tirem una picada d’all i julivert per sobre el peix i ho reguem tot plegat amb un gotet petit de vi blanc, segons la quantitat de peix que feu i amb un raig d'oli de la paella per sobre deixem el peix al forn a 200º fins que veiem que ha canviat del color rosat al blanc, que fa olor de cuit, i que es desenganxa de l'espina el temps dependrà del gruix dels talls i de la quantitat que en feu pot anar de deu minuts si és un filet prim a trenta minuts si és un lluç sencer, sense talls"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_69",
+      "nom": "Mandonguilles amb tomàquet",
+      "ingredients": [
+        {
+          "nom": "Mandonguilles",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sofregit",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet triturat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir lles verdures picades molt fines",
+        "Saltejar una mica, després afegir el tomàquet, salpebrar i deixar fer xupxup",
+        "Es pot afegir ametlles picades també",
+        "a part, sofregir les mandonguilles per marcar-les un cop marcades, afegir-les a la salsa de tomàquet i verdures i deixar coure uns minuts més tot junt"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_70",
+      "nom": "Mandonguilles de quinoa i cigrons",
+      "ingredients": [
+        {
+          "nom": "gr)",
+          "quantitat": 400.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Quinoa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pimentó vermell dolç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cúrcuma",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet fregit",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Rentem 135 gr de quinoa i la coem segons les instruccions del paquet",
+        "Preescalfem el forn a 180 ºc posem 1 all, 1/2 ceba i el julivert amb un ralllí d'oli al vas de la batedora i triturem per tal que no es notin gaire els trossos a les mandonguilles (si fas servir robot, 5 seg a vel 7)",
+        "Fregim o coem el triturat (si fas servir robot, 7 min a 100ºc)",
+        "afegim al vas els cigrons rentats i escorreguts, el pa ratllat, sal, pebre i les espècies i triturem (20 seg / vel 5) traspassem a un bol i mesclem la quinoa fins que quedi ben integrada rectifiquem de pa ratllat si és necessari per tenir una massa que es treballi fàcilment formem boles i les passem per pa ratllat i després les fem rodar en un plat amb una mica d'oli d'oliva les disposem separades sobre dues safates del forn cobertes amb paper antiadherent coem les mandonguilles al forn 20 min a 180 ºc (podem girar-les a mitja cocció) servim amb salsa de tomàquet o boloniesa acompaniades amb arròs blanc o pasta"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🫘 Llegums",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 20,
+        "greixos": 10,
+        "hidrats": 35,
+        "fibra": 10
+      },
+      "categoria_secundaria": "Llegums"
+    },
+    {
+      "id": "plat_71",
+      "nom": "Ous remenats amb bolets i ceba tendra",
+      "ingredients": [
+        {
+          "nom": "persona)",
+          "quantitat": 2.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "Bolets",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir la ceba tendra en oli d’oliva",
+        "Saltejar els bolets en una paella amb un raig d’oli, una mica de julivert trinxat i el gra d’all picat, fins que perdin tota l’aigua",
+        "Salpebrar",
+        "en una paella antiadherent posar la ceba i els bolets, i abocar-hi els dos ous batuts remenar fins que els ous siguin cuits, però que no es quallin en excés perquè no quedin secs"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Tebi",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_72",
+      "nom": "Peix al forn amb romesco",
+      "ingredients": [
+        {
+          "nom": "Lluç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ametlles torrades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Vi negre",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "llauna)",
+          "quantitat": 1.0,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Comencem engegant el forn al màxim per pre-escalfar-lo",
+        "En una paella posem oli que cobreixi el fons i hi posem 30 ametlles orrades pelades i 2 alls filetejats perquè es dauri tot plegat, sempre remenant perquè no es cremin",
+        "Un cop daurats s'hi afegeix la llauna de tomàquet i mig got de vi negre",
+        "s'hi posa sal i sucre i es deixa a foc mig baix, anant remenant de tant en tant agafem els lloms del lluç i els hi posem sal i pebre un cop la salsa de tomàquet ja es nota cuita, ja ens ha canviat de color i s'ha espessit, compteu uns 8 a 10 minuts, la treiem de la paella i ho passem tot pel turmix, que quedi una salsa ben fina agafem la plata d'anar al forn i hi disposem unes quantes cullerades de la salsa i l'escampen una mica a sobre hi posem el llom de lluç i l'acabem de cobrir amb tota la salsa el posem al forn a 200º uns deu minuts com a màxim"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_73",
+      "nom": "Pizza",
+      "ingredients": [
+        {
+          "nom": "Base de pizza",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ingredients a gust per la pizza",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet triturat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Mozzarela o formatge ratllat per pizza",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Muntar la pizza sobre la base i ficar-la al forn fins que la base estigui cruixent."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      }
+    },
+    {
+      "id": "plat_74",
+      "nom": "Pollastre alast",
+      "ingredients": [
+        {
+          "nom": "Pollastre alast & patates",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Alioli",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "És diumenge..",
+        "Ves a rostisseria i compra un pollastre alast",
+        ":)"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 420,
+        "proteines": 30,
+        "greixos": 20,
+        "hidrats": 15,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_75",
+      "nom": "Porc amb brots de soja",
+      "ingredients": [
+        {
+          "nom": "Salsa de soja",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llom de porc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pebrot verd",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Brots de soja",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir les verdures i la carn",
+        "Afegir salsa de soja."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_76",
+      "nom": "Pudding de plàtan",
+      "ingredients": [
+        {
+          "nom": "Llet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa integral",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous (3)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Plàtans (3)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Coco ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llimona o taronja (pell)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Vainilla (opcional)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Posar a escalfar el forn a 200°c amb una safata d'aigua",
+        "Escalfar mig litre de llet sense que arribi a bullir",
+        "Apagar el foc i afegir 100 gr de pa, la vainilla i la pell ratllada de mitja llimona o taronja",
+        "quan el pa s'hagi estovat, afegir els altres 3 ous i 3 plàtans i passar per la batedora introduir la mescla en un motlle de siliamba, introduir-la en el forn i cuinar al bani maria (no fa falta que l'aigua cobreixi tot el motlle, amb una miqueta ja basta) una vegada tret del forn cobrir amb coco ratllat deixar refredar totalment el pudding abans de desmotllarlo millor desmotllar després d'estar almenis 1 hora a la nevera"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Berenar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_77",
+      "nom": "Pudding de xia, plàtan i coco",
+      "ingredients": [
+        {
+          "nom": "Llet de coco",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Xia",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Essència de vainilla",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Mel d'abella",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Plàtan (2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Coco ratllat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Barreja 1/2 tassea de llet de coco, 6 cullerades de xia, 1/2 cullereta d'extracte de vainilla, 2 cullerades de mel i 1/2 tassa de coco ratllat en un bol, remou fins a integrar i reposa mínim 6 hores a la nevera",
+        "Talla 2 plàtan en llesques",
+        "Mescla les rodanxes de plàtan amb el pudding reserva unes per decorar)",
+        "serveix i decora amb més coco, plàtan i xocolata ratllat"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Esmorzar"
+      ],
+      "categoria": "Piscolabis",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_78",
+      "nom": "Quiche de verdures",
+      "ingredients": [
+        {
+          "nom": "Pasta brisa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó (o altres verdures que es vulguin posar a la quiche)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba (1/2)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pernil dolç",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ous (3)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "ml)",
+          "quantitat": 200.0,
+          "unitat": ""
+        },
+        {
+          "nom": "O un iogurt natural",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge ratllat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Com que haurem d’utilitzar el forn, és recomanable que la primera cosa que fem sigui posar-lo en marxa, per a que es vagi escalfant",
+        "En aquest cas, el necessitem a 180º amb calor a dalt i a baix",
+        "En una paella amb una mica d’oli sofregim la ceba picada",
+        "quan estigui daurada hi afegim el carbassó tallat a làmines quan tinguem el carbassó daurat, hi afegim el pernil dolç tallat a trossets petits, hi posem sal i pebre al gust i ho reservem en un bol, barregem el que tenim reservat, amb els tres ous i la nata líquida, fins que ens quedi un líquid homogeni ara que ja tenim el farciment del pastís preparat, i el forn a punt, preparem un motllo adequat que pugui ambtenir la quiche i hi extenem la massa a sobre aboquem a sobre el que serà el farciment del pastís ratllem formatge, l’espolsem per sobre, i ja ho podem posar a coure, fins que estigui daurat de la part de sobre"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 6
+      },
+      "categoria_secundaria": "Ous"
+    },
+    {
+      "id": "plat_79",
+      "nom": "Quinoa amb escopinyes",
+      "ingredients": [
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Quinoa",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "llauna)",
+          "quantitat": 1.0,
+          "unitat": ""
+        },
+        {
+          "nom": "Brou de peix",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Pelem la ceba petita i ratllem el tomàquet (si és madur anirà millor per ratllar)",
+        "En una cassola alta hi posem una mica d'oli i la ceba tallada ben petita",
+        "Quan sigui tova hi posem el tomàquet ratllat i l'amanim amb sal, pebre i un pél de sucre",
+        "un cop veiem el tomàquet ja força reduit hi afegim 4 tasses de brou de peix quan el brou bull hi posem 2 tasses de quinoa i la deixem fer a foc mitjà tapada 15 minuts uns minuts abans d'acabar la cocció de la quinoa hi afegim les escopinies de llauna ben escorregudes i el julivert picat ben petit"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 350,
+        "proteines": 25,
+        "greixos": 15,
+        "hidrats": 5,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_80",
+      "nom": "Remenat amb bolets",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bolets",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Sofregir el bolets i després afegir els ous a la paella i remenar fins que estiguin fets."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_81",
+      "nom": "Rotllets per primavera",
+      "ingredients": [
+        {
+          "nom": "Rotllets de primavera",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer-los al forn amb un rajolí d'oli."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      }
+    },
+    {
+      "id": "plat_82",
+      "nom": "Salmó amb espinacs",
+      "ingredients": [
+        {
+          "nom": "Salmó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espinacs frescos",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Cherris",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Salmó a la planxa i amanida d'espinacs"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 250,
+        "proteines": 5,
+        "greixos": 10,
+        "hidrats": 20,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_83",
+      "nom": "Entrepà de salsitxes",
+      "ingredients": [
+        {
+          "nom": "Salsitxa fresca de porc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Panets per entrepà",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ketxup o la salsa que es vulgui",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer les salsitxes a la paella, escalfar el pa i fer un entrepà amb la salsa escollida."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_84",
+      "nom": "Salsitxa fresca de porc i albergínia a la planxa",
+      "ingredients": [
+        {
+          "nom": "Salsitxa fresca de porc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Albergínies grans per planxa",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fer les salsitxes a la paella i les albergínies a la planxa amb un ralllí d'oli i sal."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_85",
+      "nom": "Salsitxes amb patates al caliu",
+      "ingredients": [
+        {
+          "nom": "Salsitxes",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Patates (",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Guacamole o alioli",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Cuinar 1 patata sense pelar per persona al microones",
+        "Tallarles per la meitat i pasar-la per la planxa amb una mica d'oli",
+        "Cuinar les salsitxes a la planxa també."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_86",
+      "nom": "Saltejat de tofu amb bròquil i sèsam",
+      "ingredients": [
+        {
+          "nom": "Tofu",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bròquil",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sèsam",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Soja",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "All",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli de sèsam",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Salteja el tofu i bròquil amb all i oli",
+        "Amaneix amb soja i sèsam torrat."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger",
+        "🌱 Vegà"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Proteïna vegetal"
+    },
+    {
+      "id": "plat_87",
+      "nom": "Sincronizadas",
+      "ingredients": [
+        {
+          "nom": "Tortitas de trigo integral",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pernil dolç o lacón",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge semi",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Com si fos un bikini però amb tortitas."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_88",
+      "nom": "Sopa d'estrelletes i pollastre arrebossat",
+      "ingredients": [
+        {
+          "nom": "Pits de pollastre",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pa ratllat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ou",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Caldo de pollastre",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Estrelletes",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir les estrelletes amb caldo de pollastre, de primer",
+        "Si fa molta calor es por canviar per una sopa freda o una amanida",
+        "Arrebossar els pits de pollastre amb ou i pa ratllat o farina i fregir, de segon."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Carn blanca",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 420,
+        "proteines": 30,
+        "greixos": 20,
+        "hidrats": 15,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_89",
+      "nom": "Sopa de pollastre",
+      "ingredients": [
+        {
+          "nom": "Pasta de sopa (fideos",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Estrelletes",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "...)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Pollastre (poden ser restes)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Brou de pollastre",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir la pasta (fideos, estrelletes, etc) amb el caldo de pollastre",
+        "Afegir restes de pollastre picat petit."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tardor",
+        "Hivern"
+      ],
+      "etiquetes": [
+        "🥩 Proteic",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 400,
+        "proteines": 15,
+        "greixos": 12,
+        "hidrats": 45,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_90",
+      "nom": "Tallarines al pesto",
+      "ingredients": [
+        {
+          "nom": "Tallarines fresques",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salsa pesto",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir la pasta fresca",
+        "Afegir la salsa pesto freda al plat."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      }
+    },
+    {
+      "id": "plat_91",
+      "nom": "Tallarins amb bolets",
+      "ingredients": [
+        {
+          "nom": "Tallarins frescos",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Bolets",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Julivert",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llet evaporada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Crema de llet per cuinar o llet vegetal",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir el tallarins",
+        "Per la salsa, sofregir la ceba i els bolets en juliana",
+        "Afegir el julivert i la llet, salpebrar i deixar que faci xupxup uns minuts."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_92",
+      "nom": "Tàrtar de tonyina amb alvocat",
+      "ingredients": [
+        {
+          "nom": "Tonyina fresca",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Alvocat",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Soja",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Llimona",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d’oliva",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Talla tots els ingredients a daus i barreja amb salsa de soja, llimona i oli",
+        "Serveix fred."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥑 Keto-friendly",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 3
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_93",
+      "nom": "Timbal de verdures amb formatge de cabra",
+      "ingredients": [
+        {
+          "nom": "Albergínia (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomàquet (1)",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge de cabra",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Tallem el carbassó i l’albergínia a rodanxes i salem",
+        "Ho posem al microones a que es cogui una mica, ja que sinó, quan ho poséssim al forn no se’ns acabaria de coure",
+        "Tallem també el tomàquet a rodanxes",
+        "a un plat apte pel form forn posem una capa d’albergínia, una de carbassó i una de tomàquet i tornem a posar albergínia, carbassó i tomàquet, és a dir, dues vegades posem damunt de tot el formatge de cabra introduïm al forn a gratinar i quan veiem que el formatge comença a fondre’s, ja el tenim llest"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Verdures",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥦 Vegetarià",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 6
+      }
+    },
+    {
+      "id": "plat_94",
+      "nom": "Tonyina a la planxa amb soja",
+      "ingredients": [
+        {
+          "nom": "Salsa de soja",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Wasabi",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tonyina (filets congelats)",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "A una paella antiadherent posar un ralllí d'oli i fer els filets de tonyina",
+        "Quan els girem, afegir un ralllí de salsa de soja",
+        "Es pot afegit també sèsam",
+        "no deixar-los massa temps a la paeela perquè que no quedin secs es pot acompaniar d'arros blanc amb la salseta de soja que queda a la paella de fer la tonyina per sobre"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_95",
+      "nom": "Torrades d'escalibada amb peix",
+      "ingredients": [
+        {
+          "nom": "Pa per fer torrades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Escalibada",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "per persona)",
+          "quantitat": 1.0,
+          "unitat": "llauna"
+        }
+      ],
+      "instruccions": [
+        "Fer les torrades i posar a sobre l'escalibada i el peix."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_96",
+      "nom": "Tortellinis al pesto",
+      "ingredients": [
+        {
+          "nom": "Tortellinis",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salsa pesto",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir els tortellinis i un cop al plat afegir la salsa pesto en fred."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      }
+    },
+    {
+      "id": "plat_97",
+      "nom": "Tortellinis amb pesto rosso",
+      "ingredients": [
+        {
+          "nom": "Tortellinis",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba tendra",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Salsa pesto",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Tomaquet triturat",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Per la salsa, sofregir la ceba i el carbassó ratllat",
+        "Afegir una mica de tomàquet triturat i deixar que faci xupxup uns minuts",
+        "Deixar refredar la salsa mentres bull la pasta",
+        "quan el sofregit estigui ja tevi, barrejar amb salsa pesto servir els tortellinis amb la salsa tèvia"
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 5
+      }
+    },
+    {
+      "id": "plat_98",
+      "nom": "Tortellinis i amanida amb tonyina",
+      "ingredients": [
+        {
+          "nom": "Tortellinis",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Amanida",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "llauna)",
+          "quantitat": 1.0,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bullir els tortellinis",
+        "Servir amb un ralllí d'oli a sobre o formatge ratllat",
+        "Posar tonyina a l'amanida."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar"
+      ],
+      "categoria": "Cereals i tubercles",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🍞 Hidrats",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 250,
+        "proteines": 5,
+        "greixos": 10,
+        "hidrats": 20,
+        "fibra": 5
+      },
+      "categoria_secundaria": "Peix"
+    },
+    {
+      "id": "plat_99",
+      "nom": "Tortilla d’espinacs amb formatge fresc",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Espinacs frescos",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Formatge fresc",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d'oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sal",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Bateu els ous, afegiu els espinacs saltejats i el formatge esmicolat",
+        "Coeu en una paella amb oli fins que qualli."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Primavera",
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger",
+        "🧀 Làctics"
+      ],
+      "valors_nutricionals": {
+        "calories": 250,
+        "proteines": 5,
+        "greixos": 10,
+        "hidrats": 20,
+        "fibra": 2
+      }
+    },
+    {
+      "id": "plat_100",
+      "nom": "Truita amb formatget",
+      "ingredients": [
+        {
+          "nom": "persona)",
+          "quantitat": 2.0,
+          "unitat": "per"
+        },
+        {
+          "nom": "persona)",
+          "quantitat": 1.0,
+          "unitat": "per"
+        }
+      ],
+      "instruccions": [
+        "Fer truites franceses d'un o dos ous amb un formatget a dintre per persona."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      }
+    },
+    {
+      "id": "plat_101",
+      "nom": "Truita de carbassó i ceba",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Carbassó",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Oli d’oliva",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Sal",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Salteja carbassó i ceba, afegeix ous batuts i cuina com una truita."
+      ],
+      "icona": "truita_de_carbasso_i_ceba.png",
+      "tipus_apat": [
+        "Dinar",
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Primavera"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 2
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_102",
+      "nom": "Truita de patata",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Patates",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fregir les patates a daus i la ceba",
+        "Fer una truita un cop les patates estan toves."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Calent",
+      "temporada": [
+        "Tot l'any"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_103",
+      "nom": "Truita de patates i gaspatxo",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Ceba",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Patates",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gaspatxo",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fregir les patates i la ceba i fer una truita",
+        "Acompaniar de gaspatxo fresquet."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Cereals i tubercles"
+    },
+    {
+      "id": "plat_104",
+      "nom": "Truita francesa i gaspatxo",
+      "ingredients": [
+        {
+          "nom": "Ous",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gaspatxo",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Batre els ous i fer una truita per persona",
+        "Acompaniar de gaspatxo fresquet."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Ous",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🥚 Ous",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 18,
+        "greixos": 20,
+        "hidrats": 5,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    },
+    {
+      "id": "plat_105",
+      "nom": "Varetes de lluç i gaspatxo",
+      "ingredients": [
+        {
+          "nom": "Varetes de lluç conbgelades",
+          "quantitat": null,
+          "unitat": ""
+        },
+        {
+          "nom": "Gaspatxo",
+          "quantitat": null,
+          "unitat": ""
+        }
+      ],
+      "instruccions": [
+        "Fregir les varetes de lluç en oli ben calent",
+        "Acompaniar de gaspatxo fresquet."
+      ],
+      "icona": "sample_icon.png",
+      "tipus_apat": [
+        "Sopar"
+      ],
+      "categoria": "Peix",
+      "tipus_plat": "Fred",
+      "temporada": [
+        "Estiu"
+      ],
+      "etiquetes": [
+        "🐟 Peix",
+        "🥗 Lleuger"
+      ],
+      "valors_nutricionals": {
+        "calories": 300,
+        "proteines": 10,
+        "greixos": 10,
+        "hidrats": 25,
+        "fibra": 4
+      },
+      "categoria_secundaria": "Verdures"
+    }
+  ],
+  "meta": {
+    "total_plats": 105,
+    "data_generacio": "2025-06-03",
+    "versio": "1.0"
+  }
+}

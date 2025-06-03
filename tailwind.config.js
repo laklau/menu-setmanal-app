@@ -1,12 +1,19 @@
-module.exports = {
-  content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{vue,js,ts,jsx,tsx}",
+  ],
   theme: {
     extend: {
+      colors: {
+        'menu-green': '#b1f090',
+      },
       fontFamily: {
-        nunito: ['Nunito', 'sans-serif'],
-        fugaz: ['Fugaz One', 'cursive']
-      }
-    }
+        'fugaz': ['"Fugaz One"', 'cursive'],
+        'nunito': ['"Nunito"', 'sans-serif'],
+      },
+    },
   },
-  plugins: []
+  plugins: [],
 }

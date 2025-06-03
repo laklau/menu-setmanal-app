@@ -1,0 +1,47 @@
+[
+  {
+    "id": "default",
+    "nom": "Icona per defecte",
+    "path": "/assets/icons/default.png"
+  },
+  {
+    "id": "pasta_peix",
+    "nom": "Pasta amb peix",
+    "path": "/assets/icons/pasta_peix.png"
+  },
+  {
+    "id": "amanida",
+    "nom": "Amanida",
+    "path": "/assets/icons/amanida.png"
+  },
+  {
+    "id": "arros",
+    "nom": "Arròs",
+    "path": "/assets/icons/arros.png"
+  },
+  {
+    "id": "ous",
+    "nom": "Plat amb ous",
+    "path": "/assets/icons/ous.png"
+  },
+  {
+    "id": "llegums",
+    "nom": "Llegums",
+    "path": "/assets/icons/llegums.png"
+  },
+  {
+    "id": "peix",
+    "nom": "Peix",
+    "path": "/assets/icons/peix.png"
+  },
+  {
+    "id": "carn",
+    "nom": "Carn",
+    "path": "/assets/icons/carn.png"
+  },
+  {
+    "id": "verdures",
+    "nom": "Verdures",
+    "path": "/assets/icons/verdures.png"
+  }
+]

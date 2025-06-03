@@ -3,13 +3,16 @@
 @tailwind utilities;
 
 body {
-  @apply bg-[#b1f090] font-[Nunito];
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
+  background-color: #b1f090;
 }
 
-h1 {
-  @apply font-['Fugaz_One'] text-4xl mb-4;
+.font-fugaz {
+  font-family: 'Fugaz One', cursive;
 }
 
-.table-title {
-  @apply font-['Fugaz_One'] uppercase;
+.font-nunito {
+  font-family: 'Nunito', sans-serif;
 }
